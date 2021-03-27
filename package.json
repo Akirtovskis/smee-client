@@ -1,6 +1,6 @@
 {
-  "name": "smee-client",
-  "version": "1.2.2",
+  "name": "smee-client-patched",
+  "version": "1.0.0",
   "description": "Client to proxy webhooks to local host",
   "main": "index.js",
   "bin": {
@@ -16,7 +16,7 @@
     "test": "jest --coverage && standard",
     "build": "tsc -p tsconfig.json"
   },
-  "repository": "github:probot/smee-client",
+  "repository": "github:Akirtovskis/smee-client",
   "author": "",
   "license": "ISC",
   "dependencies": {
